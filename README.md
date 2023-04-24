@@ -1,1 +1,1 @@
-# elixir-scripts
+Collection of elixir scripts.
